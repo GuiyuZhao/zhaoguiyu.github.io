@@ -28,9 +28,9 @@ redirect_from:
 </div>
 
 
+
 ## Conferences
 ***
-
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
     <img src="https://guiyuzhao.github.io//images/SGOR.png" alt=" " style="width: 300px;"/>
@@ -47,7 +47,8 @@ redirect_from:
   </div>
 </div>
 
-***
+
+
 
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
