@@ -9,12 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-## Scholarships
+## Journals 
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="path_to_image.jpg" alt="论文封面" style="width: 150px;"/>
+  </div>
+  <div style="flex: 3; padding-left: 20px;">
+    <strong>论文标题:</strong> SphereNet: Learning a Noise-Robust and General Descriptor for Point Cloud Registration<br/>
+    <strong>作者:</strong> Guiyu Zhao, Zhentao Guo, Xin Wang, and Hongbin Ma<br/>
+    <strong>期刊:</strong> IEEE TGRS, 2024<br/>
+    <strong>资源:</strong> 
+    <a href="link_to_paper">[paper]</a> / 
+    <a href="link_to_code">[code]</a> / 
+    <a href="link_to_project">[project]</a> / 
+    <a href="link_to_bibtex">[bibtex]</a>
+  </div>
+</div>
 
-* 2024-10: Graduate Academic Scholarship (BIT) - Special Class
-* 2024-10: National Scholarship for Master
-* 2024-05: NORINCO Scholarship
-* 2023-10: Graduate Academic Scholarship (BIT) - Special Class
-* 2022-10: Graduate Academic Scholarship (BIT) - Special Class
-* 2021-10: Academician Scholarship
-* 2020-10: National Scholarship for Bachelor
+
+## Conferences
