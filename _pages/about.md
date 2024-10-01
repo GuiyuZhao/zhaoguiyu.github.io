@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhao Guiyu (赵桂瑜)"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,9 +10,20 @@ redirect_from:
 I'm a currently third year master from [National Key Laboratory of Autonomous Intelligent Unmanned](https://csicdgz.bit.edu.cn/), [Beijing Institute of Technology](https://www.bit.edu.cn/). 
 I am advised by [Prof. Ma Hongbin](http://www.we-learn.net.cn/mathmhb/).
 Before this, I received my Bachelor’s Degree, majoring in Automation, from China University of Geosciences (Wuhan) in June 2022, under the supervision of [Prof. Li Danyun](https://grzy.cug.edu.cn/lidanyun/). 
-My research interest includes computer vision, autonomous driving, and robotics.
 
-You can find my CV here: [zhaoguiyu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:3120220906@bit.edu.cn) / [Github](https://github.com/GuiyuZhao) 
+## News
+
+* 2024-10: I won National scholarship for masters! 🎉🎉🎉
+* 2024-08: Our LDA-AQU accepted by ACM MM 2024! 🎉🎉🎉
+* 2024-08: Our SGOR accepted by IROS 2024! 🎉🎉🎉
+* 2024-05: Our VRHCF accepted by ICME 2024! 🎉🎉🎉
+* 2023-12: Our SphereNet accepted by IEEE TGRS 2024! 🎉🎉🎉
+* 2020-09: I won National Scholarship for undergraduate students! 🎉🎉🎉
+
+## Research
+
+My research focuses on computer vision, autonomous driving, and robotics. 
+Currently, I specialize in point cloud registration, feature matching.
+I want to study on Embodied AI in the future.
 
