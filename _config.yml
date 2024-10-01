@@ -22,12 +22,12 @@ repository               : "GuiyuZhao/GuiyuZhao.github.io"
 author:
   # Biographic information
   avatar           : "zgy.png"
-  name             : "Zhao Guiyu"
+  name             : "Zhao Guiyu (赵桂瑜)"
   pronouns         : # example: "she/her"  
   bio              : "A self-motivated 3DVer"
   location         : "Beijing"
   employer         : "Beijing Institute of Technology"
-  uri              : https://guiyuzhao.github.io/
+  uri              : # https://guiyuzhao.github.io/
   email            : "3120220906@bit.edu.cn" 
 
   # Academic websites
