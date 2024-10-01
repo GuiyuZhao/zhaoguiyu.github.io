@@ -21,6 +21,14 @@ Before this, I received my Bachelor’s Degree, majoring in Automation, from Chi
 * 2023-12: Our SphereNet accepted by IEEE TGRS 2024! 🎉🎉🎉
 * 2020-09: I won national scholarship for undergraduate students! 🎉🎉🎉
 
+
+## Education
+
+* Ph.D in Computer Science, XXX University, 2025 (expected)
+* M.S. in Automation, Beijing Institute of Technology, 2022
+* B.S. in GitHub, China University of Geosciences, 2018
+
+  
 ## Research
 
 My research focuses on computer vision, autonomous driving, and robotics. 
