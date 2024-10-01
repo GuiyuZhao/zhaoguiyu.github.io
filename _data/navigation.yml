@@ -5,14 +5,15 @@
 # prevent it from being included in the site.
 
 main:
+#  - title: "Publications"
+#    url: /publications/
+
   - title: "Publications"
-    url: /publications/
-  
+    url: /Pub/  
 
   - title: "Awards"
     url: /cv/
 
-  - title: "Publications"
-    url: /Pub/
+
     
 
