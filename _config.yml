@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhao Guiyu' homepage"
+title                    : "Zhao Guiyu (赵桂瑜)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "GuiyuZhao/GuiyuZhao.github.io"
 author:
   # Biographic information
   avatar           : "zgy.png"
-  name             : "Zhao Guiyu (赵桂瑜)"
+  name             : "Zhao Guiyu"
   pronouns         : # example: "she/her"  
   bio              : "A self-motivated 3DVer"
   location         : "Beijing"
