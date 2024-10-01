@@ -26,7 +26,7 @@ Before this, I received my Bachelor’s Degree, majoring in Automation, from Chi
 
 * Ph.D in Computer Science, XXX University, 2025 (expected)
 * M.S. in Automation, Beijing Institute of Technology, 2022
-* B.S. in GitHub, China University of Geosciences, 2018
+* B.S. in Automation, China University of Geosciences, 2018
 
   
 ## Research
