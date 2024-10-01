@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Journals 
----
+
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
     <img src="./images/SphereNet.png" alt=" " style="width: 150px;"/>
@@ -29,7 +29,7 @@ redirect_from:
 
 
 ## Conferences
----
+
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
     <img src="./images/SGOR.png" alt=" " style="width: 150px;"/>
@@ -45,7 +45,7 @@ redirect_from:
     <a href="https://github.com/GuiyuZhao/SGOR">[code]</a>
   </div>
 </div>
----
+
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
     <img src="./images/ICME.png" alt=" " style="width: 150px;"/>
