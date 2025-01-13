@@ -14,11 +14,13 @@ Before this, I received my Bachelor’s Degree, majoring in Automation, from Chi
 
 ## News
 
+* 2024-11: Our Cross-PCR is accepted by AAAI 2025! 🎉🎉🎉
+* 2024-11: Our GOR-PCR is accepted by IEEE TIM! 🎉🎉🎉
 * 2024-10: I won national scholarship for masters! 🎉🎉🎉
 * 2024-08: Our LDA-AQU accepted by ACM MM 2024! 🎉🎉🎉
-* 2024-08: Our SGOR accepted by IROS 2024! 🎉🎉🎉
-* 2024-05: Our VRHCF accepted by ICME 2024! 🎉🎉🎉
-* 2023-12: Our SphereNet accepted by IEEE TGRS 2024! 🎉🎉🎉
+* 2024-08: Our SGOR is accepted by IROS 2024! 🎉🎉🎉
+* 2024-05: Our VRHCF is accepted by ICME 2024! 🎉🎉🎉
+* 2023-12: Our SphereNet is accepted by IEEE TGRS 2024! 🎉🎉🎉
 * 2020-09: I won national scholarship for undergraduate students! 🎉🎉🎉
 
 
